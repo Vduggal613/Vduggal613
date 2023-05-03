@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vduggal613
-- 👀 I’m interested in devops
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate with BigFour
 - 📫 Reach me via git
